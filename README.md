@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-## OpenGL implementation of classic Zero-sum 2D game
+## 2D implementation of classic zero-sum game using OpenGL
 
 ### Description
 
