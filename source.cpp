@@ -25,7 +25,7 @@ const float DEG2RAD = 3.14159/180;
 void game_begin(int window_no,GLfloat w,GLfloat h);
 
 
-bool player[2]={FALSE};
+bool player[2] {};
 int object_map[9][2] = {{175,168},{357,168},{540,168},{175,366},{357,366},{540,366},{175,566},{357,566},{540,566}};
 
 GLubyte label1[]="                     H    A    M    S    A           S     H      W    E    T    H     A    ";
